@@ -2,3 +2,11 @@ Hello World This is First File of First Repo
 Hello Changed
 Hello changed agian
 Hello
+
+using System;
+
+public class Hello{
+    public static void Main(string args){
+        COnsole.WriteLine("Hello World");
+    }
+}
